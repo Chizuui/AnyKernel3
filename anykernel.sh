@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=HayaseYuuka For gale/gust
+kernel.string=Priestess女祭司 For gale/gust
 do.devicecheck=1
 do.modules=0
 do.systemless=1
